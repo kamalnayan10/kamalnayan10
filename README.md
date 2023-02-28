@@ -90,7 +90,6 @@
 </a>
 <a href = "https://leetcode.com/kamalnayan10/">
  <img src = "https://leetcard.jacoblin.cool/kamalnayan10?ext=heatmap"/>
- <img src = "https://leetcode-badge-showcase.vercel.app/api?username=kamalnayan10&theme=dark"/>
 </a>
 </div>
 
